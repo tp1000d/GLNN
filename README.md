@@ -12,6 +12,8 @@ Chinese version : NotImplemented.
 `utils.py`: This file contains the util functions. It also contains definition of system params.
 
 `net.py`: This file defines and declares the GLNN and the params.
+
+`CSIdyn64.mat`: An example of dataset.
 ## Reference
 Should you find this work beneficial, **kindly grant it a star**!
 
