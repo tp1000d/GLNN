@@ -13,7 +13,9 @@ Chinese version : NotImplemented.
 
 `net.py`: This file defines and declares the GLNN and the params.
 
-`CSIdyn64.mat`: An example of dataset.
+`CSIdyn64.mat`: An example of dataset for trial run.
+
+`requirements.txt`: The requirement of the recommended environment.
 ## Reference
 Should you find this work beneficial, **kindly grant it a star**!
 
