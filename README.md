@@ -4,7 +4,7 @@ This repository is the Python implementation of paper _"[Robust Beamforming with
 ## Blog
 English version : NotImplemented.
 
-Chinese version : NotImplemented.
+Chinese version : [Zhihu](https://zhuanlan.zhihu.com/p/711109469).
 
 ## Files in this repo
 `main.py`: The main function. Can be directly run to get the results.
