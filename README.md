@@ -21,16 +21,14 @@ Should you find this work beneficial, **kindly grant it a star**!
 
 To keep abreast of our research, **please consider citing**:
 ```plain text
-Xinquan Wang, Fenghao Zhu, Chongwen Huang, Ahmed Alhammadi, Faouzi Bader, Zhaoyang Zhang, Chau Yuen, Merouane Debbah, "Robust Beamforming with Gradient-based Liquid Neural Network," [Online] available: https://arxiv.org/abs/2402.10626, May. 2024.
+Xinquan Wang, Fenghao Zhu, Chongwen Huang, Ahmed Alhammadi, Faouzi Bader, Zhaoyang Zhang, Chau Yuen, Merouane Debbah, "Robust Beamforming with Gradient-based Liquid Neural Network," IEEE Wireless communications Letters.
 ```
 ```bibtex
-@misc{wang2024robust,
-      title={Robust Beamforming with Gradient-based Liquid Neural Network}, 
-      author={Xinquan Wang and Fenghao Zhu and Chongwen Huang and Ahmed Alhammadi and Faouzi Bader and Zhaoyang Zhang and Chau Yuen and Merouane Debbah},
-      year={2024},
-      eprint={2405.07291},
-      archivePrefix={arXiv},
-      primaryClass={cs.IT}
+@article{glnn,
+      title={Robust Beamforming with Gradient-based Liquid Neural Network},
+      author={Xinquan Wang and Fenghao Zhu and Chongwen Huang and Ahmed Alhammadi and Faouzi Bader and Zhaoyang Zhang and Chau Yuen and M{\'e}rouane Debbah},
+      journal={IEEE Wirel. Commun. Lett.},
+      year={2024}
 }
 ```
 
