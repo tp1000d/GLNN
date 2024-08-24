@@ -1,5 +1,5 @@
 # GLNN
-This repository is the Python implementation of paper _"[Robust Beamforming with Gradient-based Liquid Neural Network](https://arxiv.org/abs/2405.07291)"_.
+This repository is the Python implementation of paper _"[Robust Beamforming with Gradient-based Liquid Neural Network](https://ieeexplore.ieee.org/document/10620247)"_.
 
 ## Blog
 English version : NotImplemented.
