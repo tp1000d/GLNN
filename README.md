@@ -33,3 +33,10 @@ Xinquan Wang, Fenghao Zhu, Chongwen Huang, Ahmed Alhammadi, Faouzi Bader, Zhaoya
 ```
 
 Due to the size limitation of the files, bigger dataset is available [here](https://drive.google.com/file/d/1-luLm9BwtGcT-SoJt9IZUAEpsLTFPdpo/view?usp=drive_link).
+
+## More than GLNN...
+We are excited to announce a novel method that utilizes **Manifold Learning** to optimize spectrum efficiency in beamforming in RIS-aided MIMO systems. 
+
+Compared to baseline, it can speed up the convergence by **23 times** and achieves a **stronger robustness**! 
+
+See [GMML](https://github.com/FenghaoZhu/GMML/tree/main) for more information!
